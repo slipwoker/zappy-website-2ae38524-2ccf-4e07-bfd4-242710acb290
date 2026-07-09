@@ -1,0 +1,83 @@
+# DJ JaguariZ — Generative Engine Optimization Map
+
+> DJ JaguariZ is a versatile music artist with a rich and eclectic sound palette spanning Electronic subgenres (Trance, House, Trap), AfroHouse, R&B, Pop, and Slow & Chill Out. The artist creates music in three languages — Hebrew, English, and Russian — reflecting a multicultural identity and broad audience reach. The brand carries an energetic yet diverse vibe, blending underground club culture with soulful and laid-back atmospheres. The website will serve as a central music hub and artist showcase for this multi-genre, multilingual DJ.
+
+---
+
+## Pages
+
+### Home
+https://dj-jaguariz-2ae38524.zappy5.app
+Dive into DJ JaguariZ&#39;s world of YouTube R&amp;B music, AfroHouse, and Trance. Stream multilingual beats in Hebrew, English, and Russian. Start your sonic journey now!
+
+### Music Gallery
+https://dj-jaguariz-2ae38524.zappy5.app/music-gallery
+Explore DJ JaguariZ&#39;s music gallery packed with 90 music R&amp;B, Trap, and Chill Out tracks. Discover soulful, club-ready sounds in three languages. Press play today!
+
+### About
+https://dj-jaguariz-2ae38524.zappy5.app/about
+Meet DJ JaguariZ, blending 90&#39;s music R&amp;B with House and Pop. Learn how Hebrew, English, and Russian shape a multicultural sound. Feel the story behind the beats!
+
+### Contact
+https://dj-jaguariz-2ae38524.zappy5.app/contact
+Ready to book DJ JaguariZ or collaborate on R&amp;B and soul music projects? Reach out for gigs, mixes, and multilingual entertainment. Let&#39;s make magic together!
+
+### Thank You | DJ JaguariZ
+https://dj-jaguariz-2ae38524.zappy5.app/thank-you
+Thank you for contacting DJ JaguariZ. We have received your message regarding our youtube r&b music services and will respond shortly.
+
+## Legal & Policy
+
+### Privacy Policy
+https://dj-jaguariz-2ae38524.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://dj-jaguariz-2ae38524.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://dj-jaguariz-2ae38524.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://dj-jaguariz-2ae38524.zappy5.app/contact
+- Endpoint: https://dj-jaguariz-2ae38524.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About DJ JaguariZ
+DJ JaguariZ is a versatile music artist with a rich and eclectic sound palette spanning Electronic subgenres (Trance, House, Trap), AfroHouse, R&B, Pop, and Slow & Chill Out. The artist creates music in three languages — Hebrew, English, and Russian — reflecting a multicultural identity and broad audience reach. The brand carries an energetic yet diverse vibe, blending underground club culture with soulful and laid-back atmospheres. The website will serve as a central music hub and artist showcase for this multi-genre, multilingual DJ.
+
+## Target Audience
+- music fans who enjoy Electronic, AfroHouse, R&B, Pop, and Chill Out genres across Hebrew, English, and Russian-speaking audiences
+- Multilingual Music Enthusiasts
+- Global Festival Goers
+- Online Music Explorers
+
+## Industry
+Music & Entertainment
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://dj-jaguariz-2ae38524.zappy5.app/sitemap.xml
+- Robots: https://dj-jaguariz-2ae38524.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://dj-jaguariz-2ae38524.zappy5.app/llms-full.txt
