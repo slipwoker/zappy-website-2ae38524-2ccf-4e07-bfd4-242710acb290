@@ -7,37 +7,37 @@
 ## Pages
 
 ### Home
-https://dj-jaguariz-2ae38524.zappy5.app
+https://example.com
 Dive into DJ JaguariZ&#39;s world of YouTube R&amp;B music, AfroHouse, and Trance. Stream multilingual beats in Hebrew, English, and Russian. Start your sonic journey now!
 
 ### Music Gallery
-https://dj-jaguariz-2ae38524.zappy5.app/music-gallery
+https://example.com/music-gallery
 Explore DJ JaguariZ&#39;s music gallery packed with 90 music R&amp;B, Trap, and Chill Out tracks. Discover soulful, club-ready sounds in three languages. Press play today!
 
 ### About
-https://dj-jaguariz-2ae38524.zappy5.app/about
+https://example.com/about
 Meet DJ JaguariZ, blending 90&#39;s music R&amp;B with House and Pop. Learn how Hebrew, English, and Russian shape a multicultural sound. Feel the story behind the beats!
 
 ### Contact
-https://dj-jaguariz-2ae38524.zappy5.app/contact
+https://example.com/contact
 Ready to book DJ JaguariZ or collaborate on R&amp;B and soul music projects? Reach out for gigs, mixes, and multilingual entertainment. Let&#39;s make magic together!
 
 ### Thank You | DJ JaguariZ
-https://dj-jaguariz-2ae38524.zappy5.app/thank-you
+https://example.com/thank-you
 Thank you for contacting DJ JaguariZ. We have received your message regarding our youtube r&b music services and will respond shortly.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://dj-jaguariz-2ae38524.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://dj-jaguariz-2ae38524.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://dj-jaguariz-2ae38524.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -47,8 +47,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://dj-jaguariz-2ae38524.zappy5.app/contact
-- Endpoint: https://dj-jaguariz-2ae38524.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -78,6 +78,6 @@ Music & Entertainment
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://dj-jaguariz-2ae38524.zappy5.app/sitemap.xml
-- Robots: https://dj-jaguariz-2ae38524.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://dj-jaguariz-2ae38524.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
